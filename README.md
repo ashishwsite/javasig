@@ -1,5 +1,49 @@
 # Getting Started with Create React App
-
+FORMATE 
+      {/* new assignment}
+      <ol className="list-group list-group-numbered">
+      <h2>ASSINGEMENT 3</h2> <button onClick={handlehide} style={{backgroundColor:'red',cursor:'pointer',width:'2cm',height:'1cm'}}>hide</button>
+        <li className="list-group-item"></li>
+        <button onClick={handleclick}>Click</button>
+        <h2 style={{ display: Status }}></h2>
+       {/* space  */}
+        <li className="list-group-item"></li>
+        <button onClick={handleclick}>Click</button>
+        <h2 style={{ display: Status }}></h2>
+      {/* space  */}
+        <li className="list-group-item"></li>
+        <button onClick={handleclick}>Click</button>
+        <h2 style={{ display: Status }}></h2>
+        {/* space  */}
+        <li className="list-group-item"></li>
+        <button onClick={handleclick}>Click</button>
+        <h2 style={{ display: Status }}></h2>
+        
+        {/* space  */}
+        <li className="list-group-item"></li>
+        <button onClick={handleclick}>Click</button>
+        <h2 style={{ display: Status }}></h2>
+       {/* space  */}
+        <li className="list-group-item"></li>
+        <button onClick={handleclick}>Click</button>
+        <h2 style={{ display: Status }}></h2>
+      {/* space  */}
+        <li className="list-group-item"></li>
+        <button onClick={handleclick}>Click</button>
+        <h2 style={{ display: Status }}></h2>
+        {/* space  */}
+        <li className="list-group-item"></li>
+        <button onClick={handleclick}>Click</button>
+        <h2 style={{ display: Status }}></h2>
+          {/* space  */}
+        <li className="list-group-item"></li>
+        <button onClick={handleclick}>Click</button>
+        <h2 style={{ display: Status }}></h2>
+        {/* space  */}
+        <li className="list-group-item"></li>
+        <button onClick={handleclick}>Click</button>
+        <h2 style={{ display: Status }}></h2>
+        </ol>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
