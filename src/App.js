@@ -9,7 +9,7 @@ function App() {
     setstatus("inline");
     setTimeout(() => {
       setstatus("none");
-    }, 10000);
+    }, 100000);
   };
   return (
     <div className="App">
@@ -155,6 +155,52 @@ function App() {
         <li className="list-group-item">Which of the following is the correct way of implementing an interface salary by class manager?</li>
         <button onClick={handleclick}>Click</button>
         <h2 style={{ display: Status }}>class Java implements NPTEL {}</h2>
+        </ol>
+        {/* new assignment} */}
+      <ol className="list-group list-group-numbered">
+      <h2>ASSINGEMENT 5</h2> <button onClick={handlehide} style={{backgroundColor:'red',cursor:'pointer',width:'2cm',height:'1cm'}}>hide</button>
+        <li className="list-group-item">Which of the following is an incorrect statement about interfaces?</li>
+        <button onClick={handleclick}>Click</button>
+        <h2 style={{ display: Status }}> All variables are static and methods are public if interface is defined public.</h2>
+       {/* space  */}
+        <li className="list-group-item">How do you access a static method of an interface?
+</li>
+        <button onClick={handleclick}>Click</button>
+        <h2 style={{ display: Status }}>Using the interface name
+</h2>
+       {/* space  */}
+        <li className="list-group-item">What happens when we access the same variable defined in two interfaces implemented by the same class?</li>
+        <button onClick={handleclick}>Click</button>
+        <h2 style={{ display: Status }}>The interfaceName.variableName needs to be defined</h2>
+        {/* space  */}
+        <li className="list-group-item">What happens if an exception is not caught in the catch block?</li>
+        <button onClick={handleclick}>Click</button>
+        <h2 style={{ display: Status }}>the exception is thrown to the calller method</h2>
+        
+        {/* space  */}
+        <li className="list-group-item">What is the purpose of the finally block in Java exception handling?</li>
+        <button onClick={handleclick}>Click</button>
+        <h2 style={{ display: Status }}>to clean a reasoure after a try block</h2>
+       {/* space  */}
+        <li className="list-group-item">Which of the following is a correct constructor for a thread object?</li>
+        <button onClick={handleclick}>Click</button>
+        <h2 style={{ display: Status }}> Thread(Runnable a, String str);</h2>
+      {/* space  */}
+        <li className="list-group-item"></li>
+        <button onClick={handleclick}>Click</button>
+        <h2 style={{ display: Status }}></h2>
+        {/* space  */}
+        <li className="list-group-item"></li>
+        <button onClick={handleclick}>Click</button>
+        <h2 style={{ display: Status }}></h2>
+          {/* space  */}
+        <li className="list-group-item"></li>
+        <button onClick={handleclick}>Click</button>
+        <h2 style={{ display: Status }}></h2>
+        {/* space  */}
+        <li className="list-group-item"></li>
+        <button onClick={handleclick}>Click</button>
+        <h2 style={{ display: Status }}></h2>
         </ol>
       
     </div>
