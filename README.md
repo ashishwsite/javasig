@@ -18,7 +18,6 @@ FORMATE
         <li className="list-group-item"></li>
         <button onClick={handleclick}>Click</button>
         <h2 style={{ display: Status }}></h2>
-        
         {/* space  */}
         <li className="list-group-item"></li>
         <button onClick={handleclick}>Click</button>
