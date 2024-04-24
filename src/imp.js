@@ -25,7 +25,7 @@ const imp = () => {
       <li> remove() method is used to remove component from awt container</li>
       <li> JFrame is used to generated top-level-window </li>
       <li>Border Layout  ==manager divides the container into five regions: North, South, East, West, and Center?</li>
-      <h3>assingment 10</h3>
+      
       <li>JComBox class ,help in creation of list of button,  with in which ,we can selection from give list of button </li>
       <li>closing order in  jdbc == ResultSet ,then Statement(query) ,then Connection</li>
       <li>Soket class ==  provides methods to create a client-side socket in Java</li>
