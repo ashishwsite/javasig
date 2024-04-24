@@ -14,7 +14,7 @@ function App() {
     setstatus("inline");
     setTimeout(() => {
       setstatus("none");
-    }, 100000);
+    }, 1000000);
   };
   return (
     <div className="App">
